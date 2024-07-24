@@ -1,5 +1,15 @@
-# Team Stats
+# Team Management
 
-We want to create and extract information about your favorite sports team. Basketball, soccer, tennis, or water polo, you pick it. It’s your job to create data using the JavaScript data structures at your disposal: arrays, objects, etc.
+A JavaScript application that manages a team by storing player and game data, allowing new players and games to be added, and displaying the data dynamically on the web page.
 
-Once created, you can manipulate these data structures as well as gain insights from them. For example, you might want to get the total number of games your team has played, or the average score of all of their games.
+## Introduction
+
+The Team Management project allows users to manage a team by adding player and game information. The data is dynamically displayed on the web page, providing an overview of the team's roster and game results.
+
+## Features
+
+- Store player information (first name, last name, age).
+- Store game information (opponent, team points, opponent points).
+- Add new players to the team.
+- Add new games to the team's schedule.
+- Display the team's roster and game results dynamically on the web page.
